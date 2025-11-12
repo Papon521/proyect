@@ -1,3 +1,3 @@
 # comment
-nombre = "Carlos"
-print(print)
+nombre = "Sebas"
+print(nombre)
